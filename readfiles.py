@@ -2,13 +2,6 @@
 # coding: utf-8
 
 # In[2]:
-
-
-import boto3
-import pandas as pd
-from io import StringIO
-
-# Вказуємо ім'я вашого S3 bucket
 bucket_name = 'awwsbucket228335'
 
 # Вказуємо ім'я файлу, який потрібно прочитати
