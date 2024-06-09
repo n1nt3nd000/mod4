@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
+import boto3
+import pandas as pd
+from io import StringIO
 
 # In[2]:
 bucket_name = 'awwsbucket228335'
